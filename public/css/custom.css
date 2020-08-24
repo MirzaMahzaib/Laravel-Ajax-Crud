@@ -1,0 +1,6 @@
+.inputerror {
+	border: 2px solid red;
+}
+.msgerror{
+    color: red !important;
+}
